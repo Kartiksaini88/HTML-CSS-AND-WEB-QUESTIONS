@@ -12,7 +12,7 @@ fixed - The element is positioned related to the browser window.</p>
 <p class="has-line-data" data-line-start="14" data-line-end="16">Q4 =&gt; What is CSS positioning?<br>
 Ans =&gt; CSS position property defines the position of an element in a docment.</p>
 <p class="has-line-data" data-line-start="17" data-line-end="21">Q5 =&gt; The difference between display none and display hidden?<br>
-Ans =&gt; Display hidden - Means that the tag will not appear on the page at all.<br>
+Ans =&gt; Display none - Means that the tag will not appear on the page at all.<br>
 Display hidden - Means than the tag will not appear on the page but there<br>
 will be a space leftover on the page of that particular tag.</p>
 <p class="has-line-data" data-line-start="22" data-line-end="36">Q6 =&gt; Difference between flex and grid? Where to use it?<br>
